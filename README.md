@@ -1,18 +1,146 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 👋 Hi, I'm Prathamesh Dnyandev Langar
 
+### 📊 Data Analyst | 🤖 Machine Learning Practitioner
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prathamesh96k___) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Prathamesh Langar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:langarprathamesh@gmail.com) 
-
-# 💻 Tech Stack:
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Proto.io](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white) ![Gitea](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Prathamesh7498&theme=transparent&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Prathamesh7498&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamesh7498&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+I specialize in **data preprocessing, statistical analysis, data visualization, and predictive modeling** using Python and R. I enjoy transforming complex datasets into meaningful insights and building scalable, data-driven machine learning workflows.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Prathamesh7498&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💫 About Me
+
+- 🔭 **Currently working on:** Data Analytics, Machine Learning, and real-world data projects
+- 👯 **Looking to collaborate on:** Data Science, Machine Learning, and Open Source projects
+- 🤝 **Looking for help with:** Advanced Machine Learning, MLOps, and scalable data solutions
+- 🌱 **Currently learning:** Advanced Machine Learning, Deep Learning, and Data Engineering
+- 💬 **Ask me about:** Python, R, SQL, Data Analysis, Data Visualization, and Machine Learning
+- ⚡ **Fun fact:** I enjoy turning messy datasets into clear and actionable insights.
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming & Query Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=sql&logoColor=white)
+
+### 📊 Data Analysis & Processing
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+![dplyr](https://img.shields.io/badge/dplyr-1F9E89?style=for-the-badge&logo=r&logoColor=white)
+![tidyr](https://img.shields.io/badge/tidyr-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 📈 Data Visualization
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![ggplot2](https://img.shields.io/badge/ggplot2-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🤖 Machine Learning & AI
+
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![caret](https://img.shields.io/badge/caret-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🧰 Tools & Development
+
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+
+### 🔧 Version Control & CI/CD
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=gitea&logoColor=white)
+![Gitee](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)
+
+### 🧪 Testing & Automation
+
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Technologies | Description |
+| :--- | :--- | :--- |
+| 📊 **Data Analytics & ML Projects** | `Python` `Pandas` `Scikit-learn` | End-to-end data analysis, feature engineering, visualization, and predictive modeling |
+| 📈 **Statistical Analysis & Visualization** | `R` `ggplot2` `dplyr` | Statistical analysis, data cleaning, missing-value handling, and visual reporting |
+| 🤖 **Machine Learning Projects** | `Python` `Scikit-learn` `XGBoost` | Predictive modeling, model evaluation, and machine learning workflows |
+
+👉 Explore all my projects on **[GitHub](https://github.com/Prathamesh7498)**.
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Prathamesh7498&theme=transparent&hide_border=true&include_all_commits=false&count_private=false" alt="Prathamesh's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Prathamesh7498&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Prathamesh7498&theme=transparent&hide_border=true" alt="GitHub Streak" width="70%" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/Prathamesh7498">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/prathamesh-langar-716571393">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/prathamesh96k___">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:langarprathamesh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+📍 **Maharashtra, India**
+
+📧 **Email:** [langarprathamesh@gmail.com](mailto:langarprathamesh@gmail.com)
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Prathamesh7498&icon=0&color=0" alt="Profile Views" />
+</p>
+
+---
+
+## 🚀 Let's Build Something Great Together!
+
+I'm always interested in **data, machine learning, analytics, and technology**.
+
+Feel free to explore my repositories, connect with me, or collaborate on an interesting project.
+
+<p align="center">
+  <b>⭐ If you find my projects useful, consider giving them a star!</b>
+</p>
